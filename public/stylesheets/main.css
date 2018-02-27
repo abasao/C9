@@ -1,0 +1,51 @@
+body { 
+    padding-top: 60px; 
+}
+
+.thumbnail{
+    padding: 0;
+    margin-bottom: 2px;
+}
+.thumbnail img {
+    width: 100%;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+.campground-form {
+    margin: 30px auto;
+    width:30%;
+}
+div .well {
+    border: 1px solid rgba(40,40,10,0.5);
+}
+hr {
+    border-color: rgba(70, 70, 70, 0.3); 
+    margin-top: 3em;
+}
+h1.content {
+    text-align: center;
+}
+.danger-box{
+    float: right;
+}
+#comment-section{
+    margin-top: 8em;
+}
+
+.button-row {
+    padding-left: 0;
+    padding-right:  0;
+}
+
+.jumbotron {
+    max-height:250px;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+.container > .container {
+    padding-right: 0;
+    padding-left: 0;
+}
